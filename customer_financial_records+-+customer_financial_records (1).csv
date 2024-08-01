@@ -1,4 +1,4 @@
-customer_id,customer_name,email,phone_number,address,date,date_of_birth,account_balance,account_type,last_transaction_date,credit_score
+customer_id,customer_name,email,phone_number,address,born,date_of_birth,account_balance,account_type,last_transaction_date,credit_score
 e9c1717e-79e3-4784-bf43-4ba8cd016922,Drew Martin,nbrown@example.net,2882798396,"14729 Brandon Cliff
 Hutchinsonton, LA 22435",4/14/1951,11/12/1955,2164,Credit,4/16/2024,761
 d8813185-0b2a-449a-8e50-c769e065e9bf,Alejandro Long,haleymartin@example.org,331.366.2604,"35190 Johnson Camp Apt. 991
