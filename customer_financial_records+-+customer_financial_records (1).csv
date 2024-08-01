@@ -1,204 +1,204 @@
-customer_id,customer_name,email,phone_number,address,date_of_birth,date,account_balance,account_type,last_transaction_date,credit_score
+customer_id,customer_name,email,phone_number,address,date,date_of_birth,account_balance,account_type,last_transaction_date,credit_score
 e9c1717e-79e3-4784-bf43-4ba8cd016922,Drew Martin,nbrown@example.net,2882798396,"14729 Brandon Cliff
-Hutchinsonton, LA 22435",11/12/1955,4/14/1951,2164,Credit,4/16/2024,761
+Hutchinsonton, LA 22435",4/14/1951,11/12/1955,2164,Credit,4/16/2024,761
 d8813185-0b2a-449a-8e50-c769e065e9bf,Alejandro Long,haleymartin@example.org,331.366.2604,"35190 Johnson Camp Apt. 991
-Port Danielhaven, DE 26561",11/17/1960,6/14/2021,2088,Credit,6/21/2024,686
+Port Danielhaven, DE 26561",6/14/2021,11/17/1960,2088,Credit,6/21/2024,686
 da7edc7a-adf5-41c0-9228-90b271017f67,Timothy Thomas MD,belljeffrey@example.net,776-799-4054,"81424 Ryan Fields
-Christianmouth, DE 60698",10/30/1985,9/9/2021,4859,Investment,5/5/2024,645
+Christianmouth, DE 60698",9/9/2021,10/30/1985,4859,Investment,5/5/2024,645
 0b4fa21d-edbf-4d5c-b850-7a7f72b9e16d,Travis Lewis,williamsjillian@example.org,687.695.8924,"447 John Expressway
-West Rodney, NV 54882",6/8/1943,1/26/2022,6014,Savings,5/7/2024,377
+West Rodney, NV 54882",1/26/2022,6/8/1943,6014,Savings,5/7/2024,377
 f5edc39f-6495-4ec7-ba9b-31bfe0845b1d,Scott Moss,englishmichael@example.org,758-286-0945x3233,"26893 Douglas Glens Apt. 811
-East Donnaport, MP 97703",11/5/1980,12/19/2023,6435,Checking,4/7/2024,461
+East Donnaport, MP 97703",12/19/2023,11/5/1980,6435,Checking,4/7/2024,461
 4054ccc9-4872-48a8-8f3f-02aad90c4b09,Jamie Martin,brandon78@example.net,748.381.0897,"0630 Duncan Mills
-West Oliviaview, OH 99313",4/16/1999,3/1/2021,1130,Investment,3/15/2024,620
+West Oliviaview, OH 99313",3/1/2021,4/16/1999,1130,Investment,3/15/2024,620
 e9c1717e-79e3-4784-bf43-4ba8cd016922,Drew Martin,nbrown@example.net,2882798396,"14729 Brandon Cliff
-Hutchinsonton, LA 22435",4/14/1952,6/28/2022,2164,Credit,4/16/2024,761
+Hutchinsonton, LA 22435",6/28/2022,4/14/1952,2164,Credit,4/16/2024,761
 fcb7f64f-a395-442a-b62b-dff01a1881e9,David Kaufman,villachad@example.net,(591)910-4061,"654 Phillips Walks Apt. 062
-Stephenburgh, WA 39635",8/21/1980,6/6/2020,6229,Checking,1/28/2024,693
+Stephenburgh, WA 39635",6/6/2020,8/21/1980,6229,Checking,1/28/2024,693
 89ad30b1-2c1c-4d9a-90db-6dede0c620cd,Christopher Johnson,taylor57@example.org,-2788,"Unit 1901 Box 2978
-DPO AA 03619",9/27/1997,11/9/2022,8869,Credit,2/15/2024,747
+DPO AA 03619",11/9/2022,9/27/1997,8869,Credit,2/15/2024,747
 0cc641c5-bb7b-4cc0-8174-f0a530a727eb,Kathleen Davis,james06@example.net,4455110864,"8713 Lee Heights Apt. 580
-Port Erika, CO 84570",3/26/1961,5/4/2023,8552,Checking,4/23/2024,546
+Port Erika, CO 84570",5/4/2023,3/26/1961,8552,Checking,4/23/2024,546
 3f26c02b-da30-4c0a-bc35-608940668c35,Marcus Carter,hthompson@example.com,(274)290-6960,"8657 Washington Way Apt. 071
-South Bobbymouth, WV 79054",12/13/1961,1/12/2024,6756,Checking,4/7/2024,821
+South Bobbymouth, WV 79054",1/12/2024,12/13/1961,6756,Checking,4/7/2024,821
 9d923a29-c4f6-4078-acba-aa90f0420c5e,Spencer Hernandez,william63@example.com,7065839654,"4223 Li Drives
-Moniqueland, VT 23219",12/10/1990,4/10/2020,9027,Investment,3/9/2024,490
+Moniqueland, VT 23219",4/10/2020,12/10/1990,9027,Investment,3/9/2024,490
 6ba4c63a-3e51-4dc1-b231-dbd38f305224,Joseph Erickson,smithbrandi@example.net,(604)703-1055,"75259 Jones Hollow
-Amandahaven, AZ 68643",10/31/1936,11/30/2020,9959,Credit,5/21/2024,425
+Amandahaven, AZ 68643",11/30/2020,10/31/1936,9959,Credit,5/21/2024,425
 d1800c03-b721-4d0f-95c2-ee9ef1aaeebe,Courtney Harris,obrientracy@example.org,756-435-9955,"790 Linda Overpass Apt. 010
-South Scott, PW 65407",5/31/1948,1/5/2021,1890,Savings,6/15/2024,412
+South Scott, PW 65407",1/5/2021,5/31/1948,1890,Savings,6/15/2024,412
 a13b824e-d945-4c2d-8bbc-c18fee81691f,Kenneth Andrade,xfrey@example.com,216-355-3446x6601,"12255 Jeffrey Squares
-Port Travis, LA 24939",5/14/1948,5/20/2022,6426,Savings,5/30/2024,559
+Port Travis, LA 24939",5/20/2022,5/14/1948,6426,Savings,5/30/2024,559
 19a5716c-3f39-443d-bc78-0d5153f5323e,Craig Lyons,pmartinez@example.net,788.420.9802,"5042 Moore Alley Apt. 026
-Lake Meghanville, NY 82445",2/3/1940,4/15/2023,4633,Credit,3/11/2024,594
+Lake Meghanville, NY 82445",4/15/2023,2/3/1940,4633,Credit,3/11/2024,594
 715a9bc8-04cf-4848-8b70-e8683eecc7c0,John Avery,hannah58@example.net,-3578,"Unit 1096 Box 9274
-DPO AA 02406",1/22/1955,6/8/2020,2513,Investment,3/25/2024,582
+DPO AA 02406",6/8/2020,1/22/1955,2513,Investment,3/25/2024,582
 9dd5829f-7772-4b1b-9911-77b76eb676b2,Jody Barnes,brownchristopher@example.com,687-282-1685,"Unit 5081 Box 4494
-DPO AA 96262",1/9/1996,7/5/2023,7245,Investment,2/3/2024,352
+DPO AA 96262",7/5/2023,1/9/1996,7245,Investment,2/3/2024,352
 4f7a8561-8e3b-4ee2-ade2-9c025832af17,Rebecca Hahn,michelle67@example.com,(583)314-5890x68877,"92991 Fitzgerald Shores
-Floreston, SC 02238",10/25/1983,7/25/2023,2665,Savings,5/6/2024,774
+Floreston, SC 02238",7/25/2023,10/25/1983,2665,Savings,5/6/2024,774
 5130dacf-3e4e-4189-b27b-364592005aac,Shawn Edwards,jacksonkimberly@example.net,502.321.5477,"265 Miles Rue Apt. 464
-Kingburgh, KS 04690",7/7/1986,8/8/2022,7749,Savings,2/16/2024,496
+Kingburgh, KS 04690",8/8/2022,7/7/1986,7749,Savings,2/16/2024,496
 dcd1e675-8588-4941-8319-e1fddcce5d1a,Jacob Hopkins,tsellers@example.net,213-728-0985x396,"1568 Tasha Bypass Apt. 227
-New Codyberg, WA 35031",4/21/1954,1/3/2022,7363,Investment,4/19/2024,824
+New Codyberg, WA 35031",1/3/2022,4/21/1954,7363,Investment,4/19/2024,824
 d5227105-383f-4452-89a7-25e248f7b15d,Mark George,alvaradojulie@example.com,(694)762-9222x91119,"5263 Karina Trail Suite 401
-West Kathleen, VA 40804",11/11/1967,3/2/2022,8772,Savings,4/4/2024,398
+West Kathleen, VA 40804",3/2/2022,11/11/1967,8772,Savings,4/4/2024,398
 0daa107e-f89b-4edb-b528-1e22e9dd308f,Kristen Thompson,melissawelch@example.org,520.848.7959,"986 Zachary Throughway Apt. 671
-Robertstad, OR 67323",10/11/1974,5/29/2021,4990,Credit,2/10/2024,412
+Robertstad, OR 67323",5/29/2021,10/11/1974,4990,Credit,2/10/2024,412
 31e256e7-0c4d-4214-89a6-20458d173a2c,John Cruz,angela01@example.org,506.783.6145x6353,"132 Patricia Squares
-Stephenbury, WA 29511",11/24/1994,4/24/2021,8427,Credit,7/1/2024,431
+Stephenbury, WA 29511",4/24/2021,11/24/1994,8427,Credit,7/1/2024,431
 ed2f6661-3754-435f-ab35-60d6e2183159,Shannon Brown,tyler40@example.org,001-376-962-2177x06490,"989 Thomas Mountains Apt. 108
-West Veronica, CT 19853",7/24/1946,3/31/2022,7652,Savings,1/24/2024,455
+West Veronica, CT 19853",3/31/2022,7/24/1946,7652,Savings,1/24/2024,455
 fe8ffe73-02b2-49da-ad24-01b678d2a2bc,Thomas Hooper,adrian14@example.org,(661)645-6842,"4817 Miller Union Suite 626
-Lake Paulborough, WY 72858",11/15/1934,11/11/2020,6697,Credit,3/9/2024,334
+Lake Paulborough, WY 72858",11/11/2020,11/15/1934,6697,Credit,3/9/2024,334
 ab3210f8-f604-45b4-9d7b-2ddc40f84841,Roger Mathis,gomezgary@example.com,(507)772-6820x27871,"582 Sara Gateway Apt. 984
-South Catherineberg, NC 50711",4/24/1971,10/23/2022,3540,Credit,2/28/2024,415
+South Catherineberg, NC 50711",10/23/2022,4/24/1971,3540,Credit,2/28/2024,415
 32a7990d-8c85-4f69-bce0-5e883ea0177d,Thomas Nelson,kimberly88@example.net,525-449-7272,"62799 Tiffany Causeway Suite 006
-Teresaborough, AK 78857",12/3/1964,8/4/2023,8190,Savings,1/10/2024,639
+Teresaborough, AK 78857",8/4/2023,12/3/1964,8190,Savings,1/10/2024,639
 64db2fbf-1fde-4796-8cc1-f7ec2c2cfeba,Heidi Perry,hardydeborah@example.com,451.611.4525,"39397 Reyes Route
-West Dennisburgh, MH 45929",11/14/1935,5/1/2024,4543,Credit,1/1/2024,573
+West Dennisburgh, MH 45929",5/1/2024,11/14/1935,4543,Credit,1/1/2024,573
 72b7c415-2a04-4707-a052-6bff189a2b62,Tamara Lowe,todd59@example.com,(490)798-7528,"6909 Allen Fields
-Maureenport, ID 47561",8/17/1982,6/3/2020,6710,Savings,1/23/2024,320
+Maureenport, ID 47561",6/3/2020,8/17/1982,6710,Savings,1/23/2024,320
 e42b87dd-6dbd-4f5e-af9d-8bf2bfa06d67,Barbara Williams,amandaroberts@example.org,(727)793-0713,"867 Fox Burgs Apt. 958
-Port Autumnmouth, VI 72868",11/14/1938,3/23/2022,3185,Credit,4/17/2024,725
+Port Autumnmouth, VI 72868",3/23/2022,11/14/1938,3185,Credit,4/17/2024,725
 90760b8c-ef3d-46cb-8df1-397fad71a9ee,Katrina Allen,ylarson@example.com,(510)232-6371x65096,"033 Natalie Rapids Suite 933
-Mariahmouth, UT 85924",8/29/1999,11/26/2021,6915,Investment,6/26/2024,765
+Mariahmouth, UT 85924",11/26/2021,8/29/1999,6915,Investment,6/26/2024,765
 56c710ed-7cb9-4fd7-a59d-0c3ed2ac14e7,Zachary Larsen,wanda29@example.com,+1-907-308-0628x4848,"1324 Hanson Cove
-New Michael, VT 66050",1/6/1959,3/29/2020,2912,Savings,6/10/2024,464
+New Michael, VT 66050",3/29/2020,1/6/1959,2912,Savings,6/10/2024,464
 e73bfc61-9204-4332-9958-779f2b10e4cb,Daisy Klein,ronaldperez@example.com,9519215171,"USS Goodwin
-FPO AA 67044",3/10/1981,6/15/2023,2036,Investment,6/30/2024,345
+FPO AA 67044",6/15/2023,3/10/1981,2036,Investment,6/30/2024,345
 ce7e2545-32b4-40b4-82df-72fc35b27f3c,Mark Flores,vwilson@example.com,+1-566-468-0258x11085,"0903 Brian Mall
-Cookmouth, ND 85599",3/17/1947,1/12/2020,5130,Checking,4/18/2024,845
+Cookmouth, ND 85599",1/12/2020,3/17/1947,5130,Checking,4/18/2024,845
 56e58ba5-a696-4521-8026-edff6a413ca9,Caroline Smith,marynelson@example.com,(276)884-9716x883,"80998 Burns Pass Suite 212
-South Danielside, MA 93429",6/10/1952,5/3/2021,7566,Savings,1/26/2024,716
+South Danielside, MA 93429",5/3/2021,6/10/1952,7566,Savings,1/26/2024,716
 f84b0863-5fd4-4dfb-8595-45396086e729,Erin Miller,yelliott@example.net,432-475-5282x13789,"8922 Diaz Burgs
-East Johnmouth, OH 94424",2/1/1996,11/27/2020,6675,Investment,4/24/2024,576
+East Johnmouth, OH 94424",11/27/2020,2/1/1996,6675,Investment,4/24/2024,576
 99c4994f-1569-49f1-8e20-814b5797490b,Nathan Franco,jhodge@example.com,921-465-9541x5560,"213 Holloway Vista Apt. 318
-Brownshire, TX 16549",4/22/1962,4/26/2021,7961,Savings,1/12/2024,319
+Brownshire, TX 16549",4/26/2021,4/22/1962,7961,Savings,1/12/2024,319
 b1205460-2c24-4022-b6fe-39a55ec93775,Christine Jacobs,adam82@example.net,-3145,"403 Wilkins Rapids Suite 515
-Ryanshire, PW 89397",9/22/1954,1/3/2020,8246,Credit,3/16/2024,673
+Ryanshire, PW 89397",1/3/2020,9/22/1954,8246,Credit,3/16/2024,673
 ab5540b3-523b-45ac-91c2-68f1d8d66e05,Scott Anderson,joneslee@example.com,(789)545-2767x7050,"755 Burnett Courts Suite 456
-North Laurenport, KS 29831",7/8/1955,4/27/2020,1863,Credit,2/13/2024,504
+North Laurenport, KS 29831",4/27/2020,7/8/1955,1863,Credit,2/13/2024,504
 f4ab616a-63a5-408c-8b82-5f7bbe2141a1,Scott Moss,dianafranklin@example.org,285.610.3368,"205 Jacqueline Flats Suite 892
-West Paul, GA 16739",4/24/1983,5/28/2020,3335,Savings,4/24/2024,437
+West Paul, GA 16739",5/28/2020,4/24/1983,3335,Savings,4/24/2024,437
 a44e75cd-e23f-4570-a598-d485522cf9e2,James Garcia,sonya16@example.org,+1-813-941-4391x851,"2200 Roach Mountains
-Romeromouth, OH 71138",3/27/1982,12/24/2020,1368,Credit,1/11/2024,627
+Romeromouth, OH 71138",12/24/2020,3/27/1982,1368,Credit,1/11/2024,627
 9d57e2fa-4ca2-4665-b871-51ee4e8e44ff,Megan Bradley,fryandrew@example.com,(474)766-0017x49618,"9422 William Radial
-Ericchester, CA 22074",1/6/1939,5/17/2022,2732,Checking,2/28/2024,566
+Ericchester, CA 22074",5/17/2022,1/6/1939,2732,Checking,2/28/2024,566
 99848934-aca0-4abe-9c6d-ed878dc09b95,Daniel Lopez,hardynathan@example.com,(437)631-3523,"0555 John Oval Apt. 918
-South Jacquelineview, IN 44173",8/8/1942,7/16/2023,1744,Savings,6/9/2024,719
+South Jacquelineview, IN 44173",7/16/2023,8/8/1942,1744,Savings,6/9/2024,719
 1539f9cf-9313-478d-835e-0a5d9b57f5e4,Paul Garcia,levipaul@example.com,001-386-490-8247x889,"394 Brandy Freeway
-Port Jessica, MS 78924",9/28/1990,10/28/2023,1408,Credit,5/11/2024,300
+Port Jessica, MS 78924",10/28/2023,9/28/1990,1408,Credit,5/11/2024,300
 f6f0a8a5-bbc8-4120-8f97-8855bed5d097,Joshua Lawrence,qwebster@example.net,681-594-4444,"PSC 4460, Box 0059
-APO AP 94235",8/1/1954,10/9/2022,4552,Savings,3/18/2024,698
+APO AP 94235",10/9/2022,8/1/1954,4552,Savings,3/18/2024,698
 94492162-b3f8-48be-bead-167b105db832,Jason Diaz DVM,stevenbrown@example.org,+1-328-260-5711x35019,"46069 Mason Forest Suite 542
-East Brandon, NV 69240",12/7/1953,6/4/2021,7816,Credit,4/21/2024,682
+East Brandon, NV 69240",6/4/2021,12/7/1953,7816,Credit,4/21/2024,682
 8b3fefb7-222b-4b80-8688-86cefbc82d27,John Shaffer,leslie39@example.com,(367)294-7417x616,"875 Wyatt Extensions Apt. 446
-North Tammy, FL 95594",2/24/1995,3/6/2023,9960,Credit,2/12/2024,386
+North Tammy, FL 95594",3/6/2023,2/24/1995,9960,Credit,2/12/2024,386
 38fb5b47-1c74-4c47-9ea6-d47670dc3e60,William King,amanda36@example.net,893-396-4028x359,"PSC 9859, Box 5678
-APO AA 28347",7/16/2002,10/20/2020,8563,Credit,6/12/2024,390
+APO AA 28347",10/20/2020,7/16/2002,8563,Credit,6/12/2024,390
 a7d0becc-af92-40fc-b10c-a52453beb04d,Jason Clark,charleselliott@example.net,3412690214,"85239 Carter Field Apt. 404
-Villamouth, WV 53260",8/27/1997,7/23/2021,5697,Investment,1/4/2024,820
+Villamouth, WV 53260",7/23/2021,8/27/1997,5697,Investment,1/4/2024,820
 ec53f869-297e-4dd1-b977-00c8b4035abe,Todd Alvarez,davidallen@example.net,001-733-738-7126x054,"USCGC Henderson
-FPO AA 71457",8/1/1934,7/30/2023,5807,Savings,1/17/2024,303
+FPO AA 71457",7/30/2023,8/1/1934,5807,Savings,1/17/2024,303
 22b62b07-a873-4846-98ee-5519889db106,Jessica Randall,contreraskatie@example.com,001-425-543-9820x841,"893 Joseph Knoll
-Andreaville, DE 19748",6/23/1970,3/17/2024,9841,Checking,2/28/2024,779
+Andreaville, DE 19748",3/17/2024,6/23/1970,9841,Checking,2/28/2024,779
 bcd0a0ea-1266-486f-a152-194a754084a1,John Stewart,crystaltaylor@example.org,001-625-813-8401x9253,"9380 Renee Lakes
-East Robertview, GA 39442",7/16/1967,9/16/2023,3023,Investment,4/29/2024,411
+East Robertview, GA 39442",9/16/2023,7/16/1967,3023,Investment,4/29/2024,411
 a9597f96-38b8-4ace-9dda-ee7039eed558,John Rivera,wattsmichelle@example.org,+1-202-964-8304x6439,"764 Sarah Lake
-West Laura, OH 04205",9/5/2005,3/20/2023,7447,Savings,7/1/2024,548
+West Laura, OH 04205",3/20/2023,9/5/2005,7447,Savings,7/1/2024,548
 ec27f8f8-d6d2-4202-bad6-cc13bbd479d2,Daniel Cruz,thomas87@example.net,(490)503-4223,"837 Melanie Lane Suite 580
-Davilaberg, VT 13646",11/18/1952,9/18/2020,3782,Savings,5/2/2024,401
+Davilaberg, VT 13646",9/18/2020,11/18/1952,3782,Savings,5/2/2024,401
 cc5c6977-a75d-45ff-8735-324edf14ccd1,Kathy Murray,christopherbradley@example.com,427-931-2887x59823,"346 Tracy Drive
-East Robert, AZ 63941",10/25/2004,3/8/2022,9594,Investment,4/24/2024,761
+East Robert, AZ 63941",3/8/2022,10/25/2004,9594,Investment,4/24/2024,761
 fa356ac0-4ae6-4a11-8b22-716842fdf75f,Stephanie Graves,cherylmorris@example.com,+1-855-531-1776x86324,"523 Jessica Point
-Hamiltonhaven, WA 34081",5/11/1982,6/8/2024,1507,Checking,3/24/2024,617
+Hamiltonhaven, WA 34081",6/8/2024,5/11/1982,1507,Checking,3/24/2024,617
 0e306f73-bc34-4b94-bd0d-e17cb63d4cc4,Matthew Johnson,bfrost@example.com,268.529.4380,"6896 Kenneth Groves Apt. 360
-Port Brad, KS 58454",1/9/1961,7/15/2021,9885,Checking,5/8/2024,836
+Port Brad, KS 58454",7/15/2021,1/9/1961,9885,Checking,5/8/2024,836
 3a4af8eb-20e1-43b5-80ae-70f217afd2e4,Monica Hines,smiller@example.org,(309)564-0543x1673,"138 Nicholas Track
-Charlesville, KY 36175",12/25/1992,7/17/2023,7398,Checking,1/12/2024,347
+Charlesville, KY 36175",7/17/2023,12/25/1992,7398,Checking,1/12/2024,347
 aaca8c41-b5f7-44df-a0b6-f6e7a15e3268,Karen Smith,chad25@example.org,+1-389-516-4538x7318,"4181 Eric Stravenue Suite 136
-Port Ashley, VI 15368",12/27/1939,2/10/2020,4412,Checking,1/19/2024,450
+Port Ashley, VI 15368",2/10/2020,12/27/1939,4412,Checking,1/19/2024,450
 b56d53a2-2abd-43a1-b48d-d73ac1512d4e,Katie Jimenez,lmartin@example.com,001-961-303-5270x9177,"4343 Burnett Walk
-Lisaton, NE 16623",10/15/2002,11/8/2020,2832,Checking,6/28/2024,399
+Lisaton, NE 16623",11/8/2020,10/15/2002,2832,Checking,6/28/2024,399
 cd5bebd1-d322-41df-91f7-a379699a8e07,Kimberly Roberts,ihardin@example.net,346.985.2546,"502 Weeks Glens
-Lake Cynthia, DC 79596",5/29/1954,8/24/2021,2684,Checking,1/4/2024,402
+Lake Cynthia, DC 79596",8/24/2021,5/29/1954,2684,Checking,1/4/2024,402
 34420bbc-2ced-49be-9488-795fe9a7ac7f,Emily Dominguez,qwalters@example.org,795-805-7325x049,"751 Martin Plaza
-North Robertmouth, KS 53966",9/16/1970,9/14/2023,2411,Investment,1/7/2024,534
+North Robertmouth, KS 53966",9/14/2023,9/16/1970,2411,Investment,1/7/2024,534
 f53fbd2e-6e60-4c5e-9e14-30720ab35a2b,Julie Smith,qmorgan@example.com,-8748,"2808 King Fort Suite 349
-East Holly, PW 84627",7/14/1965,2/8/2022,7954,Credit,6/8/2024,448
+East Holly, PW 84627",2/8/2022,7/14/1965,7954,Credit,6/8/2024,448
 ae3ca967-2e1b-47dc-b8f9-a5b16d3ad655,Maria Robinson MD,lewisjohn@example.org,+1-612-265-6394x59322,"918 Nicholas Groves Suite 503
-Lewisfurt, MO 65010",10/3/1994,8/7/2023,3580,Credit,1/16/2024,399
+Lewisfurt, MO 65010",8/7/2023,10/3/1994,3580,Credit,1/16/2024,399
 4b09fa77-8662-4224-90f5-abd2d8f995cf,Susan Flores,alvarezjoseph@example.org,+1-370-823-6152x71961,"PSC 8835, Box 0250
-APO AE 90838",3/16/1945,6/19/2024,1471,Investment,4/8/2024,355
+APO AE 90838",6/19/2024,3/16/1945,1471,Investment,4/8/2024,355
 ba63da08-bcb2-414a-927f-040a05ce8cbc,Mary Crawford,sandovalandrew@example.org,757.310.5256,"71253 Jesse Extensions Suite 278
-Port Jonathan, SC 41076",8/20/1947,7/6/2021,2419,Savings,3/18/2024,524
+Port Jonathan, SC 41076",7/6/2021,8/20/1947,2419,Savings,3/18/2024,524
 8d1b0958-4e27-4688-8eb4-1a94938eb93b,Sean Howell,teresa89@example.net,-6666,"2817 Patterson Course Suite 833
-Joseberg, IN 28348",7/20/1949,4/13/2021,6975,Checking,4/16/2024,690
+Joseberg, IN 28348",4/13/2021,7/20/1949,6975,Checking,4/16/2024,690
 f042dd24-4d25-418a-9b1e-97c0458122c0,Colleen Lewis,lopezheather@example.org,639-734-9517,"8002 Johnson Throughway
-Rachelville, TX 64473",8/8/1970,2/27/2021,9248,Investment,3/27/2024,411
+Rachelville, TX 64473",2/27/2021,8/8/1970,9248,Investment,3/27/2024,411
 4b954bec-aedd-42a2-8791-906abe676bf1,Melinda Perez,chooper@example.net,+1-424-574-0804x203,"8258 Dan Avenue
-Timothyport, VI 33935",3/30/1958,6/1/2021,9808,Checking,1/27/2024,641
+Timothyport, VI 33935",6/1/2021,3/30/1958,9808,Checking,1/27/2024,641
 c214d81f-8fef-468b-a6a7-abfe3beb8403,Christopher Sutton,cbaker@example.org,001-876-626-0025x573,"3274 Lorraine Roads Suite 597
-South Amandatown, LA 30611",5/9/1989,6/28/2024,3806,Credit,6/20/2024,467
+South Amandatown, LA 30611",6/28/2024,5/9/1989,3806,Credit,6/20/2024,467
 75c8b8f1-9c15-4081-ab84-04a443e82696,Mrs. Brenda Goodman,yfarmer@example.net,(759)449-2627x89343,"6962 Rhodes Cliffs
-South Patricia, AZ 07936",7/3/1941,10/24/2023,4687,Savings,1/9/2024,794
+South Patricia, AZ 07936",10/24/2023,7/3/1941,4687,Savings,1/9/2024,794
 75727e2e-777c-4695-8b26-fe91ba95c458,Nicholas Dodson,alvareztimothy@example.com,644.660.6209x67588,"2548 Bradley Creek Apt. 423
-Bellchester, MN 44090",1/9/1953,3/7/2022,9650,Credit,2/21/2024,746
+Bellchester, MN 44090",3/7/2022,1/9/1953,9650,Credit,2/21/2024,746
 efa5dd88-2e1f-4dc5-a7e6-88079b402829,Joseph Hughes,utran@example.com,001-915-540-9527x948,"58563 Guerrero Station Apt. 355
-Royside, WV 20259",8/1/1986,10/23/2021,6857,Checking,6/10/2024,656
+Royside, WV 20259",10/23/2021,8/1/1986,6857,Checking,6/10/2024,656
 3982a6a2-8045-495c-a67f-635c6fcd26fd,Emily Nguyen,jeremy10@example.net,-1972,"79951 Chang Views Apt. 121
-North Nicholas, HI 71506",2/4/1958,3/11/2023,1730,Investment,5/6/2024,377
+North Nicholas, HI 71506",3/11/2023,2/4/1958,1730,Investment,5/6/2024,377
 6734371f-5f1a-4ffa-9244-dd7569fb9ce0,Matthew Huang,xmcgrath@example.com,001-312-865-6593,"1492 Samuel Garden Apt. 595
-Freemanstad, OR 24374",9/22/1976,4/3/2023,1010,Checking,1/19/2024,343
+Freemanstad, OR 24374",4/3/2023,9/22/1976,1010,Checking,1/19/2024,343
 cd1f469d-d5e4-4ae1-922e-c51667f98aa0,Michelle Barrett,vanessa32@example.org,717-789-5100x104,"1995 Nicole Throughway Suite 104
-Hoville, CT 47248",12/7/1940,1/15/2021,1810,Investment,1/23/2024,329
+Hoville, CT 47248",1/15/2021,12/7/1940,1810,Investment,1/23/2024,329
 1e19fa91-7637-4178-8577-83ddd7a8ab76,Robert Moses,anthony45@example.net,+1-225-606-5175x8511,"9607 Jones Green Apt. 107
-Ballburgh, AS 23856",2/15/1942,11/6/2020,3013,Savings,2/25/2024,563
+Ballburgh, AS 23856",11/6/2020,2/15/1942,3013,Savings,2/25/2024,563
 8f474ad8-3222-4b2a-95f4-a54f22c10394,Charlotte Johnson,scottbaker@example.org,762.935.6932x0074,"453 Richard Point Apt. 510
-West Justinside, MI 11899",10/26/1945,1/17/2024,5379,Savings,1/2/2024,782
+West Justinside, MI 11899",1/17/2024,10/26/1945,5379,Savings,1/2/2024,782
 82e785e6-75c4-468f-a130-1be0e16b2102,Drew Hinton,edward83@example.org,959.761.7085,"624 Karen Mountains
-West Mackenzie, FL 38536",3/9/1937,4/16/2021,2770,Savings,7/1/2024,518
+West Mackenzie, FL 38536",4/16/2021,3/9/1937,2770,Savings,7/1/2024,518
 817d90ff-48fe-4fd8-a3fc-fe600d007d04,Adam Moore,danielle68@example.com,(933)454-5410x5736,"702 Payne Spurs Apt. 133
-East Rachel, NE 78996",3/25/1949,11/21/2023,7973,Savings,5/20/2024,517
+East Rachel, NE 78996",11/21/2023,3/25/1949,7973,Savings,5/20/2024,517
 071eb1ad-587d-4aa5-9dbe-525de7bb9630,Amy James,yallen@example.net,+1-497-371-7356x7857,"0336 Price Greens
-Hansenfurt, VA 36649",2/14/1987,8/21/2023,7558,Credit,6/25/2024,768
+Hansenfurt, VA 36649",8/21/2023,2/14/1987,7558,Credit,6/25/2024,768
 1ecbd840-382f-4859-a6ea-bc9bc5bb2f4f,Jennifer Gonzalez,lreed@example.org,(302)592-0396,"1024 Donna Manors
-Lorifurt, NJ 33658",12/30/1967,2/7/2024,9041,Credit,4/6/2024,518
+Lorifurt, NJ 33658",2/7/2024,12/30/1967,9041,Credit,4/6/2024,518
 fdbe8033-d3e6-4e5d-9109-31934d79f7a2,Ryan Tran,hansonalexander@example.net,(422)381-8674,"1175 Michelle Mission Suite 452
-North Carrieport, AK 90160",11/16/1955,1/25/2020,8003,Investment,1/26/2024,547
+North Carrieport, AK 90160",1/25/2020,11/16/1955,8003,Investment,1/26/2024,547
 ae3ba859-0e1c-4807-ba54-04cd2d09ce5f,Jill Peterson,qmiller@example.com,+1-704-335-9154x72682,"3128 Beasley Points Apt. 641
-Port Christopherchester, OR 21277",11/9/1984,7/10/2023,2276,Checking,6/18/2024,712
+Port Christopherchester, OR 21277",7/10/2023,11/9/1984,2276,Checking,6/18/2024,712
 bf14daeb-a0b8-47eb-924e-f433669532ca,Leroy Mcmillan,xdiaz@example.com,411-557-8886x43324,"34726 Faulkner Throughway Suite 981
-Marthafurt, NY 99512",8/26/1941,3/7/2023,8047,Savings,4/7/2024,337
+Marthafurt, NY 99512",3/7/2023,8/26/1941,8047,Savings,4/7/2024,337
 77e12922-63a4-425b-930f-eebcba7ca405,Jill Moore,brandy45@example.com,001-566-602-4683x635,"718 Waller Port
-Austinstad, PA 62553",4/16/1973,5/26/2024,5050,Savings,1/20/2024,519
+Austinstad, PA 62553",5/26/2024,4/16/1973,5050,Savings,1/20/2024,519
 368d40ee-e8a3-4694-ae07-fa50d9b2d614,Angel Butler,katie06@example.org,886-335-8085,"229 Brown Orchard Apt. 059
-Lake Daniel, ID 51579",5/19/1965,7/29/2021,3894,Credit,1/16/2024,483
+Lake Daniel, ID 51579",7/29/2021,5/19/1965,3894,Credit,1/16/2024,483
 44c87a96-b1e8-4ea0-8de9-e537d50d7a03,Lisa Allen,mark78@example.net,(495)219-6964x0038,"8421 John Heights
-North Tommy, AR 12174",12/26/1963,12/12/2020,1197,Investment,5/30/2024,480
+North Tommy, AR 12174",12/12/2020,12/26/1963,1197,Investment,5/30/2024,480
 b6932b86-acb6-4e14-b13a-c762c8be40c7,Dana Pearson,larrybowen@example.org,(426)981-3543x9925,"0242 Brown Spur
-Ronaldfurt, NV 22777",3/12/1975,11/1/2022,5624,Credit,5/30/2024,618
+Ronaldfurt, NV 22777",11/1/2022,3/12/1975,5624,Credit,5/30/2024,618
 f306d9b3-f669-4849-95c1-c22134ee0918,Beth Rice,davisryan@example.com,001-674-827-1566x3494,"943 Megan Expressway Apt. 780
-Maldonadoborough, VA 29221",8/13/1951,12/30/2020,6025,Checking,6/4/2024,580
+Maldonadoborough, VA 29221",12/30/2020,8/13/1951,6025,Checking,6/4/2024,580
 1e4d5337-ef31-46b6-8e9d-8fad24384e5d,Megan Peterson,hmyers@example.com,(905)820-7888x28389,"PSC 8126, Box 2015
-APO AA 85996",11/20/1955,7/3/2022,4161,Checking,1/30/2024,502
+APO AA 85996",7/3/2022,11/20/1955,4161,Checking,1/30/2024,502
 61dbac8b-04ad-4ef3-9674-e1e0ff3bbecf,Nicole Marquez,sandraglover@example.net,205.653.6634x824,"6309 Ashley Roads
-Crossmouth, AS 61631",7/16/1957,2/8/2020,1629,Checking,5/30/2024,791
+Crossmouth, AS 61631",2/8/2020,7/16/1957,1629,Checking,5/30/2024,791
 45376c36-7586-4acf-aa2f-5724d9db72af,Amanda Roberts,carlosscott@example.net,(543)403-5816,"20379 Jonathan Branch
-Matthewhaven, NE 66491",4/9/1950,8/3/2022,2056,Investment,2/14/2024,620
+Matthewhaven, NE 66491",8/3/2022,4/9/1950,2056,Investment,2/14/2024,620
 10bee6b4-baa7-481b-aaea-2af3fdfe739b,Cathy Buchanan,deanchristopher@example.net,9667346151,"594 Perkins Valleys
-North Louisland, MO 65381",5/12/2006,1/3/2024,5097,Investment,6/19/2024,323
+North Louisland, MO 65381",1/3/2024,5/12/2006,5097,Investment,6/19/2024,323
 ac065ee6-b015-4311-a41e-4ef795ca4cbf,Stephen Wong,nvaldez@example.org,001-882-810-8089x14713,"16304 Gregory Ferry Apt. 918
-Sheltonmouth, PA 00816",10/12/1977,5/21/2024,7391,Savings,5/24/2024,755
+Sheltonmouth, PA 00816",5/21/2024,10/12/1977,7391,Savings,5/24/2024,755
 26635b84-335d-48c4-a1b3-ab767c4566cc,Claudia Davidson,rangeljonathan@example.com,001-981-358-6894x9495,"PSC 1800, Box 5413
-APO AP 98885",1/3/1967,7/31/2020,7282,Investment,1/28/2024,483
+APO AP 98885",7/31/2020,1/3/1967,7282,Investment,1/28/2024,483
 02007408-c007-4754-a90e-cccfd68b275a,Luis Rose,duncanjamie@example.com,+1-443-773-3354x0319,"2510 David Springs
-South Erichaven, VT 30947",12/24/1957,1/21/2023,5545,Investment,6/18/2024,482
+South Erichaven, VT 30947",1/21/2023,12/24/1957,5545,Investment,6/18/2024,482
 79e352c9-1996-47d5-82eb-84498c6a015d,Tammy Whitney,toddmichael@example.net,(831)285-4309x6432,"43977 Richardson Parks Apt. 620
-Jillshire, AS 72366",6/21/1977,7/11/2020,2013,Savings,6/26/2024,738
+Jillshire, AS 72366",7/11/2020,6/21/1977,2013,Savings,6/26/2024,738
 cc34c068-9dd7-4179-9219-d2dd9aa87cc5,Adrian Mclean,ybutler@example.org,877-793-0626x9834,"2639 Casey Centers Suite 116
-Rossfort, ND 55086",12/5/1949,5/26/2020,9263,Savings,4/17/2024,411
+Rossfort, ND 55086",5/26/2020,12/5/1949,9263,Savings,4/17/2024,411
 2a9ca0ff-7e7b-4f2e-8165-bb19afb7c627,Amanda Garcia,james60@example.com,940.394.3304x3381,"735 Caitlin Light
-Lake Marc, MN 46996",6/23/1990,12/27/2022,3168,Savings,4/27/2024,659
+Lake Marc, MN 46996",12/27/2022,6/23/1990,3168,Savings,4/27/2024,659
 ,,,,,,,,,,
