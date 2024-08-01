@@ -1,6 +1,6 @@
 customer_id,customer_name,email,phone_number,address,date_of_birth,date,account_balance,account_type,last_transaction_date,credit_score
 e9c1717e-79e3-4784-bf43-4ba8cd016922,Drew Martin,nbrown@example.net,2882798396,"14729 Brandon Cliff
-Hutchinsonton, LA 22435",11/12/1955,6/28/2022,2164,Credit,4/16/2024,761
+Hutchinsonton, LA 22435",11/12/1955,4/14/1951,2164,Credit,4/16/2024,761
 d8813185-0b2a-449a-8e50-c769e065e9bf,Alejandro Long,haleymartin@example.org,331.366.2604,"35190 Johnson Camp Apt. 991
 Port Danielhaven, DE 26561",11/17/1960,6/14/2021,2088,Credit,6/21/2024,686
 da7edc7a-adf5-41c0-9228-90b271017f67,Timothy Thomas MD,belljeffrey@example.net,776-799-4054,"81424 Ryan Fields
@@ -12,7 +12,7 @@ East Donnaport, MP 97703",11/5/1980,12/19/2023,6435,Checking,4/7/2024,461
 4054ccc9-4872-48a8-8f3f-02aad90c4b09,Jamie Martin,brandon78@example.net,748.381.0897,"0630 Duncan Mills
 West Oliviaview, OH 99313",4/16/1999,3/1/2021,1130,Investment,3/15/2024,620
 e9c1717e-79e3-4784-bf43-4ba8cd016922,Drew Martin,nbrown@example.net,2882798396,"14729 Brandon Cliff
-Hutchinsonton, LA 22435",4/14/1951,6/28/2022,2164,Credit,4/16/2024,761
+Hutchinsonton, LA 22435",4/14/1952,6/28/2022,2164,Credit,4/16/2024,761
 fcb7f64f-a395-442a-b62b-dff01a1881e9,David Kaufman,villachad@example.net,(591)910-4061,"654 Phillips Walks Apt. 062
 Stephenburgh, WA 39635",8/21/1980,6/6/2020,6229,Checking,1/28/2024,693
 89ad30b1-2c1c-4d9a-90db-6dede0c620cd,Christopher Johnson,taylor57@example.org,-2788,"Unit 1901 Box 2978
@@ -201,3 +201,4 @@ cc34c068-9dd7-4179-9219-d2dd9aa87cc5,Adrian Mclean,ybutler@example.org,877-793-0
 Rossfort, ND 55086",12/5/1949,5/26/2020,9263,Savings,4/17/2024,411
 2a9ca0ff-7e7b-4f2e-8165-bb19afb7c627,Amanda Garcia,james60@example.com,940.394.3304x3381,"735 Caitlin Light
 Lake Marc, MN 46996",6/23/1990,12/27/2022,3168,Savings,4/27/2024,659
+,,,,,,,,,,
